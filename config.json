@@ -1,0 +1,60 @@
+{
+  "default": "youdao",
+  "baidu": {
+    "appid": "20170517000048160",
+    "key": "1_S_7oC6uvfR0rSpQVk6",
+    "from": "auto",
+    "to": "zh",
+    "language": {
+      "zh": "中文 - Chinese",
+      "en": "英语 - English",
+      "yue": "粤语 - Cantonese",
+      "wyw": "文言文 - Classical Chinese",
+      "jp": "日语 - Japanese",
+      "kor": "韩语 - Korean",
+      "fra": "法语 - French",
+      "spa": "西班牙语 - Spanish",
+      "th": "泰语 - Thai",
+      "ara": "阿拉伯语 - Arabic",
+      "ru": "俄语 - Russian",
+      "pt": "葡萄牙语 - Portuguese",
+      "de": "德语 - German",
+      "it": "意大利语 - Italian",
+      "el": "希腊语 - Greek",
+      "nl": "荷兰语 - Dutch",
+      "pl": "波兰语 - Polish",
+      "bul": "保加利亚语 - Bulgarian",
+      "est": "爱沙尼亚语 - Estonian",
+      "dan": "丹麦语 - Danish",
+      "fin": "芬兰语 - Finnish",
+      "cs": "捷克语 - Czech",
+      "rom": "罗马尼亚语 - Romanian",
+      "slo": "斯洛文尼亚语 - Slovenia language",
+      "swe": "瑞典语 - Swedish",
+      "hu": "匈牙利语 - Hungarian",
+      "cht": "繁体中文 - Traditional Chinese",
+      "vie": "越南语 - Vietnamese"
+    }
+  },
+  "youdao": [
+    {
+      "key": "1253992655",
+      "keyfrom": "ShanaTranslate"
+    },
+    {
+      "key": "303727991",
+      "keyfrom": "ShanaTool"
+    },
+    {
+      "key": "825633179",
+      "keyfrom": "ShanaTool2"
+    },
+    {
+      "key": "825633180",
+      "keyfrom": "ShanaTool3"
+    }
+  ],
+  "iciba": {
+    "key": "23D730B6BB8648AB03335F6DD36B878D"
+  }
+}

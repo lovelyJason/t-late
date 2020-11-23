@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const tLate = require('..')
+const fs = require('fs')
+
+tLate.main(process.argv.slice(2))
